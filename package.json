@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "typescript": "^1.6.2",
-    "vscode": "0.10.x"
+    "vscode": "1.1.6"
   },
   "dependencies": {
     "child-process-promise": "^1.1.0",
