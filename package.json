@@ -49,7 +49,7 @@
     "vscode": "0.10.x"
   },
   "dependencies": {
-    "child-process-promise": "^1.1.0",
+    "child-process-promise": "^2.2.1",
     "iconv-lite": "^0.4.13"
   },
   "repository": {
