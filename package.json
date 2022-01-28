@@ -45,7 +45,7 @@
     "compile": "node ./node_modules/vscode/bin/compile -watch -p ./"
   },
   "devDependencies": {
-    "typescript": "^1.6.2",
+    "typescript": "^4.5.4",
     "vscode": "0.10.x"
   },
   "dependencies": {
